@@ -3,7 +3,7 @@ package Knowledge.SerialAndDeserial;
 import java.io.*;
 
 public class Test {
-    private static String path = "/Users/hw/git/javaKnowledges/conf/SerialAndDeserial/Person.txt";
+    private static String path = "/Users/hw/Documents/GitHub/javaKnowledges/conf/SerialAndDeserial/Person.txt";
 
     public static void main(String[] args) throws Exception {
         SerializePerson();
