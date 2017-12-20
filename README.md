@@ -4,3 +4,9 @@ java 的一些基本知识点 :
 反射
 注解
 泛型
+
+
+
+
+# learn in the future
+java设计模式
