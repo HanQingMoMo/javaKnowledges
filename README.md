@@ -15,6 +15,8 @@ java 8 新特性(lambda表达式 函数式接口)
 
 异步 CompletableFuture
 
+Enum 枚举
+
 # learn in the future
 java设计模式
 
